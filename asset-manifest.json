@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/corpthings/static/css/main.bd1daada.chunk.css",
+    "main.js": "/corpthings/static/js/main.7406053c.chunk.js",
+    "main.js.map": "/corpthings/static/js/main.7406053c.chunk.js.map",
+    "runtime-main.js": "/corpthings/static/js/runtime-main.e6c9c756.js",
+    "runtime-main.js.map": "/corpthings/static/js/runtime-main.e6c9c756.js.map",
+    "static/js/2.e1c7a521.chunk.js": "/corpthings/static/js/2.e1c7a521.chunk.js",
+    "static/js/2.e1c7a521.chunk.js.map": "/corpthings/static/js/2.e1c7a521.chunk.js.map",
+    "static/js/3.3f165e0a.chunk.js": "/corpthings/static/js/3.3f165e0a.chunk.js",
+    "static/js/3.3f165e0a.chunk.js.map": "/corpthings/static/js/3.3f165e0a.chunk.js.map",
+    "index.html": "/corpthings/index.html",
+    "static/css/main.bd1daada.chunk.css.map": "/corpthings/static/css/main.bd1daada.chunk.css.map",
+    "static/js/2.e1c7a521.chunk.js.LICENSE.txt": "/corpthings/static/js/2.e1c7a521.chunk.js.LICENSE.txt",
+    "static/media/business-woman.58696495.png": "/corpthings/static/media/business-woman.58696495.png",
+    "static/media/fullcup.641da01a.jpeg": "/corpthings/static/media/fullcup.641da01a.jpeg",
+    "static/media/knife.1da63263.jpeg": "/corpthings/static/media/knife.1da63263.jpeg",
+    "static/media/teamworkvideo.b76a573b.mp4": "/corpthings/static/media/teamworkvideo.b76a573b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c9c756.js",
+    "static/js/2.e1c7a521.chunk.js",
+    "static/css/main.bd1daada.chunk.css",
+    "static/js/main.7406053c.chunk.js"
+  ]
+}
